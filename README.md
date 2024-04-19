@@ -7,7 +7,7 @@ Curso: Análise e Desenvolvimento de Sistemas - AMS
 
 Período: tarde 
 
-Ano: 1° 
+Ano: 2° 
 
 
 ## OdontoKids 
