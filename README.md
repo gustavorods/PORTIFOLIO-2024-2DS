@@ -13,7 +13,6 @@ Ano: 2°
 ## OdontoKids 
 Projeto de um site para uma clínica odontológica infantil, elaborado para avaliação técnica na Escola Técnica Estadual (Etec) Zona Leste em colaboração com uma empresa parceira, com enfoque educacional para o aprimoramento das habilidades técnicas.
 
-### Link para o site: https://gustavorods.github.io/2023_odonto_kids/
-### Link para o repositório do site: https://github.com/gustavorods/2023_odonto_kids.git
+### Link para o repositório do site: https://github.com/gustavorods/2023_odonto_kids
 ### Observação: Projeto em desenvolvimento, erros podem acontecer!
 
